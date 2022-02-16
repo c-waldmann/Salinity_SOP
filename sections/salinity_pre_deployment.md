@@ -4,7 +4,7 @@
 (sensor-calib)=
 ## Sensor Calibration
 Most users send their CT-sensors to manufacturers to get high quality/high precision calibrations. 
-Few organizations have the ability to do in-lab conductivity and temperature calibrations, especially for the unpumped CTD found on Seagliders because of its direct integration into the glider fairing (see {numref}`unpumped`).
+Few organizations have the ability to do in-lab conductivity and temperature calibrations, especially for the unpumped CTD found on Seagliders because of its direct integration into the glider fairing (see {numref}`unpumped`).For future calibrations of salinity sensors for gliders it should be considered to follow procedures proposed by the ISO standard 22013. The standardardisation is aiming at harmonizing the relevant metrological vocabulary, suggest testing routines and how to document the results of the calibration process.
 
 For the RBR*legato*<sup>3</sup> sensor with an inductive cell, the calibrations can only be done in the field or by using the SeaExplorer’s coefficients that correct the influence of the vehicle on the sensor’s inductive field. 
 The accuracy of these coefficients is unproven. 
